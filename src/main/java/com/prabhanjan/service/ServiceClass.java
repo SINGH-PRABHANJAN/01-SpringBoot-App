@@ -7,5 +7,9 @@ public class ServiceClass {
 		return "Prabhanjan";
 		
 	}
+	
+	public Integer getInt() {
+		return 1;
+	}
 
 }
