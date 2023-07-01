@@ -12,4 +12,7 @@ public class ServiceClass {
 		return 1;
 	}
 
+	public void display() {
+		System.out.println("Hello PK");
+	}
 }
