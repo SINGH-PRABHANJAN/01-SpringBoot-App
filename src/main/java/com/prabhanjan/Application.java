@@ -8,8 +8,8 @@ import org.springframework.context.ConfigurableApplicationContext;
 public class Application {
 
 	public static void main(String[] args) {
-		
 		final String nameofCountry="IND";
+		final String url="https://abi/getindex";
 		ConfigurableApplicationContext run= SpringApplication.run(Application.class, args);
 		run.close();
 	}
