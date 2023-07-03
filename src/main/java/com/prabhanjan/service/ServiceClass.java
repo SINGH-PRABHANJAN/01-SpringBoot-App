@@ -8,9 +8,6 @@ public class ServiceClass {
 		
 	}
 	
-	public Integer getInt() {
-		return 1;
-	}
 
 	public void display() {
 		System.out.println("Hello PK");
