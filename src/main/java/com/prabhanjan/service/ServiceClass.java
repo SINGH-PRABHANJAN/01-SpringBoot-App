@@ -1,17 +1,17 @@
 package com.prabhanjan.service;
 
 public class ServiceClass {
-	
+	private String name;
+
+	private String rollout;
+	private boolean isDevelopr;
+
 	public String getString()
 	{
+		String n1;
 		return "Prabhanjan";
 		
 	}
-	
-	public Integer getInt() {
-		return 1;
-	}
-
 	public void display() {
 		System.out.println("Hello PK");
 	}
