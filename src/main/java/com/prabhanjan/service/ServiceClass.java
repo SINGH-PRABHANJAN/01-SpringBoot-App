@@ -7,8 +7,6 @@ public class ServiceClass {
 		return "Prabhanjan";
 		
 	}
-	
-
 	public void display() {
 		System.out.println("Hello PK");
 	}
