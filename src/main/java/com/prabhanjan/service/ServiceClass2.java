@@ -5,6 +5,7 @@ public class ServiceClass2 {
 
 	private String rollout;
 	private boolean isDevelopr;
+	private String namma;
 
 	public String getString()
 	{
