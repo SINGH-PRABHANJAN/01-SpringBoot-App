@@ -2,12 +2,7 @@ package com.prabhanjan.service;
 
 public class ServiceClass2 {
 	
-	private boolean isDevelopr;
-
-	private String namma;
-
-	private String allOut;
-
+	
 	public String getString() {
 		String n1;
 		return "Prabhanjan";
