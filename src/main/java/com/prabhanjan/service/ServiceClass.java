@@ -2,6 +2,7 @@ package com.prabhanjan.service;
 
 public class ServiceClass {
 	private String name;
+	private String rollout;
 	public String getString()
 	{
 		String n1;
