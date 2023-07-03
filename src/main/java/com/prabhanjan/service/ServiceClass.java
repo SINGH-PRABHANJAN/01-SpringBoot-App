@@ -8,12 +8,6 @@ public class ServiceClass {
 		
 	}
 	
-	public Integer getInt() {
-		return 1;
-	}
-	public String getStringName(){
-		return "";
-	}
 
 	public void display() {
 		System.out.println("Hello PK");
