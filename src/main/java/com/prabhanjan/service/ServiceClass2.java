@@ -5,14 +5,17 @@ public class ServiceClass2 {
 
 	private String rollout;
 	private boolean isDevelopr;
+
 	private String namma;
 
-	public String getString()
-	{
+	private String allOut;
+
+	public String getString() {
 		String n1;
 		return "Prabhanjan";
-		
+
 	}
+
 	public void display() {
 		System.out.println("Hello PK");
 	}
