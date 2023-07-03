@@ -2,8 +2,6 @@ package com.prabhanjan.service;
 
 public class ServiceClass2 {
 	
-
-	private String rollout;
 	private boolean isDevelopr;
 
 	private String namma;
