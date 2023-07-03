@@ -4,6 +4,7 @@ public class ServiceClass {
 	
 	public String getString()
 	{
+		String n1;
 		return "Prabhanjan";
 		
 	}
