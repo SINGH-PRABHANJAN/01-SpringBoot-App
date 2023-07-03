@@ -1,7 +1,7 @@
 package com.prabhanjan.service;
 
 public class ServiceClass {
-	
+	private String name;
 	public String getString()
 	{
 		return "Prabhanjan";
