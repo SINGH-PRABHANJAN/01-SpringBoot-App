@@ -1,7 +1,7 @@
 package com.prabhanjan.service;
 
 public class ServiceClass2 {
-	private String name;
+	
 
 	private String rollout;
 	private boolean isDevelopr;
